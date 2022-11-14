@@ -1,0 +1,343 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Scope+One&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+   
+    }
+    
+    
+  
+    nav {
+        position: fixed;
+       background-color: rgb(244, 67, 54);
+        width: 300px;
+        font-size: 18px;
+        height: 700px;
+    
+    }
+    
+    
+    h2{
+        padding-top: 88px;
+        color: white;
+        padding-left: 43px;
+    }
+    
+    ul{
+        padding-top: 50px;
+        padding-bottom: 55px;
+       padding-left: 40px;
+        list-style: none;
+        font-weight: bold;
+        
+    }
+    
+      ul li  {
+        color: white;
+        padding-bottom: 15px;
+        
+      
+    }
+    li a{
+        color: white;
+        text-decoration: none;
+    }
+    li:hover{
+        background-color: #131111;
+    }
+    
+   
+
+
+
+
+    .header{
+        margin-left: 300px;
+    }
+    
+    .header .t1{
+        font-size: 64px;
+        padding-top: 100px;
+        padding-left: 50px;
+        margin-bottom: -50px;
+        
+    }
+    
+    .header .t2{
+        font-size: 48px;
+        color: #f44336;
+        padding-left: 50px;
+    }
+    
+    hr.new4 {
+        border: 5px solid red;
+        border-radius: 5px;
+        width: 30PX;
+      }
+   
+
+
+
+
+
+
+    img{
+        height: 250px;
+        width: 400px;
+        padding: 0 5px;
+        padding-bottom: 3px;
+        cursor: pointer;
+        
+    
+        }
+    
+        #images{
+            margin-left: 50px;
+        }
+        #sectionimg{
+            margin-left: 300px;
+
+        }
+     
+    
+        
+
+
+
+
+
+
+
+        h3{
+           padding-left: 355px;
+            padding-top: 50px;
+            padding-bottom: 30px;
+            color: #f44336;
+            font-size: 30px;
+            line-height: 2.5;
+        }
+    
+      
+        .t1{
+            padding-bottom: 15px;
+            padding-left: 355px;
+        }
+    
+        .t2{
+            padding-left: 355px;
+            padding-right: 15px;
+            line-height: 1.5;
+            padding-bottom: 40px;
+           
+        }
+
+       span{
+        font-weight: 800;
+        font-size: 15px;
+      
+       }
+    
+    
+      
+
+
+
+    
+    
+       #imgsdes{
+        margin-top: -25px;
+        margin-left: 350px;
+        display: flex;
+     
+        
+       }
+    
+       .Designimage {
+    
+          background-color: #efe9e9;
+          margin-left: 8px;
+        
+       }
+       .Designimage img{
+       height: auto;
+        width: 250px;
+       }
+    
+    .text p{
+        margin-left: 10px;
+        margin-top: 10px;
+       }
+
+
+       .text h4{
+        font-family: 'Scope One', serif;
+        font-size: 25px;
+
+           
+
+       }
+
+       .text h4 ,h5{
+        line-height: 3.3;
+        margin-left: 10px;
+       }
+       h5{
+        color: #aeaaaa;
+         }
+
+
+       .section4 P{
+        padding-left: 355px;
+        margin-bottom: 20px;
+       }
+    
+
+
+       .package{
+        display: flex;
+        flex-direction: column;
+        width:  400px;
+        text-align: center;
+        background-color: #F1F1F1;
+        margin-right: 10px;
+        cursor: pointer;
+        transition: all ease .4s;
+    }
+    
+    .package h4{
+    
+        color: white;
+        padding: 15px;
+    
+    } 
+    #cardes{
+        display: flex;
+           margin-left: 355PX;
+    
+    }
+    
+    .package span {
+        padding: 15PX;
+        font-family: 'Montserrat', sans-serif;
+        font-size: .8rem;
+    }
+    .package button{
+        width: 20%;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: none;
+        cursor: pointer;
+        padding: 8px;
+
+    }
+
+
+    #graypage{
+        background-color: gray;
+    }
+    #graybtn{
+        background-color: white;
+        padding: 8px;
+       
+    }
+    #graybtn:hover{
+       background-color: #F44336;
+       color: white;
+    
+    }
+    #redbtn{
+        background-color: white;
+     
+        background-color: #F44336;
+        color: white;
+    }
+    #redbtn:hover{
+       background-color: #ffffff;
+       color: #000000;
+    
+    }
+    #redpage{
+        background-color: #F44336;
+    
+    
+    }
+   
+    
+
+
+
+
+
+
+
+
+
+   
+
+   #from{
+    margin-left: 350px;
+    width: 830PX;
+
+   }
+   #from  input{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10PX;
+   }
+
+   button{
+    background-color: #F44336;
+    width: 100%;
+    height: 35px;
+    border: none;
+
+
+   }
+
+#section5 p{
+    margin-left: 350px;
+    margin-bottom: 30px;
+}
+    #section6{
+        margin-top: 70px;
+        margin-left: 300px;
+        background-color: #dcdcdc;
+        height: 90px;
+        display: flex;
+      
+       
+    }
+    
+    #section6 span{
+     margin-left: 530px;
+     margin-top: 30PX;
+    }
+#social{
+   margin-top: 20px;
+ margin-left: 35PX;
+  
+  
+}
+
+     #links a{
+           text-decoration: none;        
+            width: auto;
+    }  
+    #links img{
+        width: 30px;
+        height: 30px;
+       margin-right: 10px;
+       margin-left: 10PX;
+      }
+    #perom{
+     color: #b5b3b3;
+     font-size: 8px;
+    }
+  
+
+
